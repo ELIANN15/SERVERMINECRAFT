@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.174.125.161
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722716171247
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722719700484
+  login: 1722719310592
+money: '0'
+last-account-name: 4ng3l210M
+lastlocation:
+  world: b2c83198-2db3-45d2-a4c2-8a734bf9da1a
+  world-name: world
+  x: 0.9414535268464678
+  y: 300.0
+  z: 0.266409503296354
+  yaw: 97.77149963378906
+  pitch: 67.65853118896484
+logoutlocation:
+  world: b2c83198-2db3-45d2-a4c2-8a734bf9da1a
+  world-name: world
+  x: 2241.402403381549
+  y: 64.0
+  z: 597.3919047294579
+  yaw: 178.09869384765625
+  pitch: 34.60214614868164

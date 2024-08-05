@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.186.37.74
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722713354989
+  login: 1722713321836
+money: '0'
+last-account-name: C3Dick
+logoutlocation:
+  world: b2c83198-2db3-45d2-a4c2-8a734bf9da1a
+  world-name: world
+  x: 0.03267701965225894
+  y: 190.18492592182338
+  z: -3.846529517807514
+  yaw: -81.54989624023438
+  pitch: 67.82637023925781
+past-usernames:
+- c3dick

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.138.235.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722743785278
+  login: 1722742473598
+money: '0'
+last-account-name: ItsJuliaTheCow
+logoutlocation:
+  world: b2c83198-2db3-45d2-a4c2-8a734bf9da1a
+  world-name: world
+  x: -1123.300000011921
+  y: -46.0
+  z: -0.621890541681921
+  yaw: 90.781494140625
+  pitch: 51.44992446899414

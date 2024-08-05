@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.63.84.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722826858898
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722826953609
+  login: 1722825494301
+money: '0'
+last-account-name: Theelianrex
+lastlocation:
+  world: cee547e7-fca4-402a-95d5-82ed45b8eefe
+  world-name: world_nether
+  x: 146.5
+  y: 85.97852336136866
+  z: -377.5
+  yaw: 114.52481079101562
+  pitch: 23.105751037597656
+logoutlocation:
+  world: b2c83198-2db3-45d2-a4c2-8a734bf9da1a
+  world-name: world
+  x: 3574.063483456044
+  y: 71.0
+  z: 948.6999999880791
+  yaw: 150.18138122558594
+  pitch: 25.075088500976562

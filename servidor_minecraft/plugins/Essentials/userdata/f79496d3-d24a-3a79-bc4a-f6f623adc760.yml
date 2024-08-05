@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.158.243.244
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721422943724
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721418551811
+  login: 1721418555155
+money: '0'
+last-account-name: abuelasesina
+lastlocation:
+  world: b2c83198-2db3-45d2-a4c2-8a734bf9da1a
+  world-name: world
+  x: 3559.133017731614
+  y: 71.0
+  z: 970.9250000119209
+  yaw: 146.72235107421875
+  pitch: 14.451114654541016
+logoutlocation:
+  world: b2c83198-2db3-45d2-a4c2-8a734bf9da1a
+  world-name: world
+  x: 3558.9284082253016
+  y: 72.0
+  z: 1003.9781890355706
+  yaw: 8.49871826171875
+  pitch: 19.081192016601562
